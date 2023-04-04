@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.220.158.131:8081/repository/Practicewar/</url>
+	      <url>http://3.15.157.71:8081/repository/Lexus22/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
